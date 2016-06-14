@@ -1,3 +1,2 @@
 # Tip-Calculator
-CodePath assignment 1, week 1
-First day!
+CodePath Assignment 1 (Week 1)
